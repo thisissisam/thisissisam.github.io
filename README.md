@@ -3,4 +3,7 @@
 This is my perosnal website where I showcase my personal projects.
 
 ## Projects
-- Lecture notes from University
+- Analysis II Mitschrift
+- Finanzmathe Mitschrift
+- Python Praktikum (Numerische Mathematik)
+- Reinforcement Machine Learning to identify Knots
