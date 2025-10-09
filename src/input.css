@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+
+@theme {
+      /* Change ALL default fonts to JetBrains Mono */
+  --font-sans: "JetBrains Mono", "monospace";
+  --font-serif: "JetBrains Mono", "monospace";
+  --font-mono: "JetBrains Mono", "monospace";
+
+  --color-default-bg: #FEFAE0; /* background */
+  --color-object-bg: #C49968; /* secondary background*/
+  --color-object-hv-bg: #DDA15E; /* hover background*/
+  --color-light-text: #606C38; /* green backgorund */
+  --color-light-text2 : #606C38;
+  --color-dark-text: #606C38; /* text color */
+}
