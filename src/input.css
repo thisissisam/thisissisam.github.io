@@ -10,7 +10,7 @@
   --color-default-bg: #FEFAE0; /* background */
   --color-object-bg: #E4AD6D; /* secondary background*/
   --color-object-hv-bg: #E69E4B; /* hover background*/
-  --color-light-text: #606C38; /* green backgorund */
-  --color-light-text2 : #414531;
+  --color-light-text: #606C38; /* default background green text */
+  --color-light-text2 : #414531; /* secondary background light text */
   --color-dark-text: #283618; /* text color */
 }
